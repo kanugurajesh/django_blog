@@ -104,3 +104,8 @@ def news_details(request):
     }
 
     return render(request, 'main/details.html', context)
+
+
+
+def changes_abcd():
+    pass
